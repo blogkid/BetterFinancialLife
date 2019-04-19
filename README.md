@@ -5,11 +5,7 @@ Everyone deserve a better financial life. Let’s go beyond 996.
 
 Here we provide some reading materials which can rebuild your mental financial system.
 
-### Basis
-
-1. 自私的皮球
-2. 资本的秘密
-3. 伟大的博弈
+1. [Books-to-Read.md]Basis
 
 ### The Cycle You Must Know
 
