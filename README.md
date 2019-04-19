@@ -29,4 +29,27 @@ Here we provide some reading materials which can rebuild your mental financial s
 1. A man for all markets
 1. Last man standing
 
-## Creditcard 
+## Foreign Bank Account
+
+As a global citizen, a foreign bank account is a must. 
+
+### Hong Kong Banks
+
+1. China Merchant Bank
+1. Wing-Lung Bank
+
+### US Banks
+
+1. Bank of America
+1. JPMorgan Chase
+1. East West Bank
+
+### Other Banks
+
+## Broker Account
+
+A broker account can help you manage your investment, or, your portfolio.
+
+### Towering Securities
+
+### Interactive Brokers
