@@ -5,7 +5,7 @@ Everyone deserve a better financial life. Let’s go beyond 996.
 
 Here we provide some reading materials which can rebuild your mental financial system.
 
-1. [Books-to-Read.md]Basis
+1. [Basis](Books-to-Read.md)
 
 ### The Cycle You Must Know
 
