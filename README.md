@@ -7,17 +7,7 @@ Here we provide some reading materials which can rebuild your mental financial s
 
 1. [Basis](Books-to-Read.md)
 1. [Cycles you must know](Books-to-Read-Cycles.md)
-
-
-### Level Up
-
-1. Predators' Ball
-2. 期权投资策略
-3. AlphaBrain
-4. 反脆弱
-1. 黑天鹅
-1. A man for all markets
-1. Last man standing
+1. [Books that can make you level up](Books-to-Read-LevelUp.md)
 
 ## Foreign Bank Account
 
