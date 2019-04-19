@@ -6,14 +6,8 @@ Everyone deserve a better financial life. Let’s go beyond 996.
 Here we provide some reading materials which can rebuild your mental financial system.
 
 1. [Basis](Books-to-Read.md)
+1. [Cycles you must know](Books-to-Read-Cycles.md)
 
-### The Cycle You Must Know
-
-1. Mastering the Market Cycle
-2. The Most Important Thing
-3. 大而不倒
-4. 大空头
-5. 压力测试
 
 ### Level Up
 
