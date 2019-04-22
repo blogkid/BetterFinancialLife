@@ -7,7 +7,7 @@ Here we provide some reading materials which can rebuild your mental financial s
 
 1. [Basis](Books-to-Read.md)
 1. [Cycles you must know](Books-to-Read-Cycles.md)
-1. [Books that can make you level up](Books-to-Read-LevelUp.md)
+1. [Further reading](Books-to-Read-LevelUp.md)
 
 ## Foreign Bank Account
 
